@@ -1,0 +1,7 @@
+ul li{list-style: none; display: inline-block; padding: 20px;}
+ul{text-align: center;}
+a{text-decoration: none; color: #000000;}
+a:hover{color: lightpink;}
+
+
+#copyright{text-align: center;}

@@ -1,0 +1,13 @@
+p{font-family: serif;}
+.main{text-align: center;}
+.about{text-align: center;}
+.skills{text-align: center;}
+.project{text-align: center;}
+.contact{text-align: center;}
+#name{font-size: medium;}
+#sidename{font-size: small;}
+#job{font-size: medium;}
+#sidejob{font-size: small;}
+
+table{width: 60%; height: 100px; margin: auto; text-align: center;}
+
